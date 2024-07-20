@@ -1,2 +1,5 @@
+#checkpoint
 /.ipynb_checkpoints/
+
+#virtualenv
 /scrape/
